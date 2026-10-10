@@ -1,0 +1,11 @@
+# IDE
+.idea/
+
+# 压缩包（太大，不需要版本管理）
+*.zip
+*.rar
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
