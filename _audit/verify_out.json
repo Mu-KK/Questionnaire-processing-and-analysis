@@ -1,0 +1,12498 @@
+{
+ "于左 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "12": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "13": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "DE",
+   "detect": "DE",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ACDE",
+   "detect": "ACDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCE",
+   "detect": "ABCE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABF",
+   "detect": "ABF",
+   "src": "header"
+  }
+ },
+ "于立 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "F",
+   "detect": "F",
+   "src": "header"
+  },
+  "12": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "13": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A,C",
+   "detect": "A、C",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A,C,D",
+   "detect": "A、C、D",
+   "src": "header"
+  },
+  "19": {
+   "excel": "B,C,D",
+   "detect": "B、C、D",
+   "src": "header"
+  }
+ },
+ "冯晨 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）(1)": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "15": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "刘凤良 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）-刘凤良": {
+  "1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A：25bp；F：是否降息说不好，如果降息可能是结构性的",
+   "detect": "A：25bp；F：是否降息说不好，如果降息可能是结构性的",
+   "src": "header-text"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "刘凯-2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A E",
+   "detect": "A  E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A B C",
+   "detect": "A B C",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A B D E",
+   "detect": "A B D E",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A C D E",
+   "detect": "A C D E",
+   "src": "opt-bracket:（A C D E   ）"
+  }
+ },
+ "刘建平 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "F",
+   "detect": "F",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "F",
+   "detect": "F",
+   "src": "header"
+  },
+  "13": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "F",
+   "detect": "F",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A,B,C,D,E",
+   "detect": "A、B、C、D、E",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A,B,C,D,E",
+   "detect": "A、B、C、D、E",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A,B,C,D,E",
+   "detect": "A、B、C、D、E",
+   "src": "header"
+  }
+ },
+ "刘海波 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A E",
+   "detect": "A  E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "CDE",
+   "detect": "CDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCD",
+   "detect": "ABCD",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ACDE",
+   "detect": "ACDE",
+   "src": "header"
+  }
+ },
+ "刘穷志 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "8": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "刘靖 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "F",
+   "detect": "F",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABDE",
+   "detect": "ABDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "史晋川 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A，C",
+   "detect": "A，C",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A，B，E",
+   "detect": "A，B，E",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A，C，D",
+   "detect": "A，C，D",
+   "src": "header"
+  }
+ },
+ "吕汉光 LUI Hon-Kwong 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "15": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A, C",
+   "detect": "A, C",
+   "src": "header"
+  },
+  "18": {
+   "excel": "B , C",
+   "detect": "B , C",
+   "src": "header"
+  },
+  "19": {
+   "excel": "B, E",
+   "detect": "B, E",
+   "src": "header"
+  }
+ },
+ "吴信如 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "d",
+   "detect": "d",
+   "src": "header"
+  },
+  "2": {
+   "excel": "b",
+   "detect": "b",
+   "src": "header"
+  },
+  "3": {
+   "excel": "d",
+   "detect": "d",
+   "src": "header"
+  },
+  "4": {
+   "excel": "a",
+   "detect": "a",
+   "src": "header"
+  },
+  "5": {
+   "excel": "b",
+   "detect": "b",
+   "src": "header"
+  },
+  "6": {
+   "excel": "c",
+   "detect": "c",
+   "src": "header"
+  },
+  "7": {
+   "excel": "b",
+   "detect": "b",
+   "src": "header"
+  },
+  "8": {
+   "excel": "b",
+   "detect": "b",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "a",
+   "detect": "a",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "b",
+   "detect": "b",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "b",
+   "detect": "b",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "c",
+   "detect": "c",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "b",
+   "detect": "b",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "a",
+   "detect": "a",
+   "src": "header"
+  },
+  "11": {
+   "excel": "c",
+   "detect": "c",
+   "src": "header"
+  },
+  "12": {
+   "excel": "b",
+   "detect": "b",
+   "src": "header"
+  },
+  "13": {
+   "excel": "b",
+   "detect": "b",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "b",
+   "detect": "b",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "b",
+   "detect": "b",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "b",
+   "detect": "b",
+   "src": "header"
+  },
+  "15": {
+   "excel": "a",
+   "detect": "a",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "c",
+   "detect": "c",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "c",
+   "detect": "c",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "c",
+   "detect": "c",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "f",
+   "detect": "f",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ac",
+   "detect": "ac",
+   "src": "header"
+  },
+  "18": {
+   "excel": "abde",
+   "detect": "abde",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ce",
+   "detect": "ce",
+   "src": "header"
+  }
+ },
+ "周军 山东大学 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "6": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "11": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "DE",
+   "detect": "DE",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ACE",
+   "detect": "ACE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "AB CDE",
+   "detect": "AB CDE",
+   "src": "header"
+  }
+ },
+ "周泽炯 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "周立群 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A,D,C",
+   "detect": "A、D、C",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A B E D",
+   "detect": "A  B  E  D",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A C E",
+   "detect": "A  C  E",
+   "src": "header"
+  }
+ },
+ "周耿 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "DE",
+   "detect": "DE",
+   "src": "header"
+  },
+  "17": {
+   "excel": "BCDE",
+   "detect": "BCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCD",
+   "detect": "ABCD",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABE",
+   "detect": "ABE",
+   "src": "header"
+  }
+ },
+ "孙巍 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "DE",
+   "detect": "DE",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "尹恒 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D E",
+   "detect": "D E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A C D",
+   "detect": "A C D",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A B D",
+   "detect": "A B D",
+   "src": "header"
+  },
+  "19": {
+   "excel": "C E",
+   "detect": "C E",
+   "src": "header"
+  }
+ },
+ "席艳乐 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A,B,D",
+   "detect": "A、B、D",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A,C,E",
+   "detect": "A、C、E",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A,B,C,D,E",
+   "detect": "A、B、C、D、E",
+   "src": "header"
+  }
+ },
+ "张东辉 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABC",
+   "detect": "ABC",
+   "src": "header"
+  },
+  "18": {
+   "excel": "BCDE",
+   "detect": "BCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ACE",
+   "detect": "ACE",
+   "src": "header"
+  }
+ },
+ "张云 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D,E",
+   "detect": "D、E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "B,C",
+   "detect": "B、C",
+   "src": "header"
+  },
+  "18": {
+   "excel": "B,D",
+   "detect": "B、D",
+   "src": "header"
+  },
+  "19": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  }
+ },
+ "张宏亮 2026年秋季中国宏观经济形势与政策调查问卷(总第27次） 张宏亮": {
+  "1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D, E",
+   "detect": "D, E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A, D, E",
+   "detect": "A, D, E",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A, B, E",
+   "detect": "A, B, E",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A, C, D",
+   "detect": "A, C, D",
+   "src": "header"
+  }
+ },
+ "张连城 2026年中国宏观经济形势和政策问卷调1": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "12": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "13": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A,B,C",
+   "detect": "A、B、C",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A,C,D",
+   "detect": "A、C、D",
+   "src": "header"
+  },
+  "19": {
+   "excel": "C,D",
+   "detect": "C、D",
+   "src": "header"
+  }
+ },
+ "徐一帆 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "15": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A C E",
+   "detect": "A  C  E",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A B",
+   "detect": "A B",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABD",
+   "detect": "ABD",
+   "src": "header"
+  }
+ },
+ "支大林-2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "15": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "明雷 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "F",
+   "detect": "F",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "12": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "13": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "17": {
+   "excel": "B C",
+   "detect": "B C",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABE",
+   "detect": "ABE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "AD",
+   "detect": "AD",
+   "src": "header"
+  }
+ },
+ "易宪容 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D E",
+   "detect": "D E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A C D",
+   "detect": "A C D",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A B D",
+   "detect": "A   B D",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A B",
+   "detect": "A B",
+   "src": "header"
+  }
+ },
+ "朱保华 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "6": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "7": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "8": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "12": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "13": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "E A D",
+   "detect": "E A D",
+   "src": "header"
+  },
+  "18": {
+   "excel": "E B C",
+   "detect": "E B C",
+   "src": "header"
+  },
+  "19": {
+   "excel": "D A E",
+   "detect": "D A E",
+   "src": "header"
+  }
+ },
+ "朱启贵 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）  朱启贵": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "朱胜豪 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "12": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "13": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D,E",
+   "detect": "D、E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  }
+ },
+ "李俊生 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "19": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  }
+ },
+ "李军 中科院 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）LJ": {
+  "1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "13": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D,E",
+   "detect": "D、E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "18": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "19": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  }
+ },
+ "李英东 西安交大：2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A B C D E",
+   "detect": "A B C D E",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A B D E",
+   "detect": "A B D E",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "杨上广 2026年秋季中国宏观经济形势与政策调查问卷(总第27次） (1)": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "杨澄宇 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ACD",
+   "detect": "ACD",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ACDE",
+   "detect": "ACDE",
+   "src": "header"
+  }
+ },
+ "杨翠红 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "F",
+   "detect": "F",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "15": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "17": {
+   "excel": "BA CD",
+   "detect": "BA CD",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ADCBE",
+   "detect": "ADCBE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "DACB",
+   "detect": "DACB",
+   "src": "header"
+  }
+ },
+ "林学贵 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）-答": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "段宏波 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "BD",
+   "detect": "BD",
+   "src": "header"
+  },
+  "18": {
+   "excel": "AC",
+   "detect": "AC",
+   "src": "header"
+  },
+  "19": {
+   "excel": "",
+   "detect": "多选或填空",
+   "src": "header-text"
+  }
+ },
+ "殷醒民 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D/E",
+   "detect": "D/E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "C/E",
+   "detect": "C/E",
+   "src": "header"
+  },
+  "18": {
+   "excel": "D/E",
+   "detect": "D/E",
+   "src": "header"
+  },
+  "19": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  }
+ },
+ "毕吉耀 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "opt-mark"
+  },
+  "11": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A B D E",
+   "detect": "A B D E",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A B C D E",
+   "detect": "A B C D E",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A B E",
+   "detect": "A B E",
+   "src": "header"
+  }
+ },
+ "汤吉军 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "15": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D E",
+   "detect": "D E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "汪昌云 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "17": {
+   "excel": "B C",
+   "detect": "B C",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A B",
+   "detect": "A B",
+   "src": "header"
+  },
+  "19": {
+   "excel": "DE",
+   "detect": "DE",
+   "src": "header"
+  }
+ },
+ "沈利生 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）(沈利生)": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A,D,E",
+   "detect": "A、D、E",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A,B,D",
+   "detect": "A、B、D",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A,B,D",
+   "detect": "A、B、D",
+   "src": "header"
+  }
+ },
+ "沈国兵 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "BCDE",
+   "detect": "BCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCD",
+   "detect": "ABCD",
+   "src": "header"
+  }
+ },
+ "王今朝 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "AB",
+   "detect": "AB",
+   "src": "header"
+  },
+  "17": {
+   "excel": "CE",
+   "detect": "CE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABDE",
+   "detect": "ABDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "王军波 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "11": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A, C, D",
+   "detect": "A, C, D",
+   "src": "header"
+  },
+  "18": {
+   "excel": "B, D, E",
+   "detect": "B, D, E",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A, C, D, E",
+   "detect": "A, C, D, E",
+   "src": "header"
+  }
+ },
+ "王国成 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "D, B, A, C, E",
+   "detect": "D, B, A, C, E",
+   "src": "header"
+  },
+  "18": {
+   "excel": "C, B, A, E, D",
+   "detect": "C, B, A, E, D",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A, E, B, C, D",
+   "detect": "A, E, B, C, D",
+   "src": "header"
+  }
+ },
+ "王大树 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCD",
+   "detect": "ABCD",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "王曦 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-mark"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-mark"
+  },
+  "7": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-mark"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-mark"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-mark"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-mark"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "11": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-mark"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "14-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-mark"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABDE",
+   "detect": "ABDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABDE",
+   "detect": "ABDE",
+   "src": "header"
+  }
+ },
+ "王跃生 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "11": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A B",
+   "detect": "A B",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A C D",
+   "detect": "A C D",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A B E",
+   "detect": "A B E",
+   "src": "header"
+  }
+ },
+ "瞿宛文 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ACE",
+   "detect": "ACE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABE",
+   "detect": "ABE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "石峻驿 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "11": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ACD",
+   "detect": "ACD",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ADE",
+   "detect": "ADE",
+   "src": "header"
+  }
+ },
+ "石慧敏 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "17": {
+   "excel": "BC",
+   "detect": "BC",
+   "src": "header"
+  },
+  "18": {
+   "excel": "AB",
+   "detect": "AB",
+   "src": "header"
+  },
+  "19": {
+   "excel": "AC",
+   "detect": "AC",
+   "src": "header"
+  }
+ },
+ "祝梓翔 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "C1.5%",
+   "detect": "LPR",
+   "src": "header-text"
+  },
+  "17": {
+   "excel": "A，B，C，D",
+   "detect": "A，B，C，D",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A，B，E",
+   "detect": "A，B，E",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A，B,C,D，E",
+   "detect": "A，B,C,D，E",
+   "src": "header"
+  }
+ },
+ "简锦汉 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "11": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "12": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D E",
+   "detect": "D E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A B C D",
+   "detect": "A B C D",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A B C D",
+   "detect": "A B C D",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A B C D",
+   "detect": "A B C D",
+   "src": "header"
+  }
+ },
+ "胡日东 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ACDEB",
+   "detect": "ACDEB",
+   "src": "header"
+  },
+  "18": {
+   "excel": "BAEDC",
+   "detect": "BAEDC",
+   "src": "header"
+  },
+  "19": {
+   "excel": "AEBCD",
+   "detect": "AEBCD",
+   "src": "header"
+  }
+ },
+ "臧旭恒 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A,B,C,D,E",
+   "detect": "A,B,C,D,E",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A,B,C,D,E",
+   "detect": "A,B,C,D,E",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A,B,C,D,E",
+   "detect": "A,B,C,D,E",
+   "src": "header"
+  }
+ },
+ "苏剑 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "7": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "12": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "13": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "DE",
+   "detect": "DE",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ADE",
+   "detect": "ADE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABD",
+   "detect": "ABD",
+   "src": "header"
+  },
+  "19": {
+   "excel": "BC",
+   "detect": "BC",
+   "src": "header"
+  }
+ },
+ "范巧 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）_范巧_兰州大学": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "F",
+   "detect": "F",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "F",
+   "detect": "F",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCD",
+   "detect": "ABCD",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABDE",
+   "detect": "ABDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "袁富华 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "覃巍 广西大学 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "6": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "",
+   "detect": "",
+   "src": "none"
+  },
+  "9-2": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "11": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "谢丹阳 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A25个基点",
+   "detect": "LPR",
+   "src": "header-text"
+  },
+  "17": {
+   "excel": "A,B,C,E",
+   "detect": "A、B、C、E",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A,B,D,E",
+   "detect": "A、B、D、E",
+   "src": "header"
+  },
+  "19": {
+   "excel": "C,D,F",
+   "detect": "C、D、F",
+   "src": "header"
+  }
+ },
+ "贺力平 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-mark"
+  },
+  "4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-mark"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-mark"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "9-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "opt-mark"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-mark"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-mark"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-mark"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-mark"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "14-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-mark"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-mark"
+  },
+  "15": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-mark"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-mark"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-mark"
+  },
+  "16-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-mark"
+  },
+  "16-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "opt-mark"
+  },
+  "17": {
+   "excel": "E",
+   "detect": "E",
+   "src": "opt-mark"
+  },
+  "18": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-mark"
+  },
+  "19": {
+   "excel": "E",
+   "detect": "E",
+   "src": "opt-mark"
+  }
+ },
+ "赵振全 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）(1)": {
+  "1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "11": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCE",
+   "detect": "ABCE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCE",
+   "detect": "ABCE",
+   "src": "header"
+  }
+ },
+ "邓翔 2026年秋季调查问卷(总第27次）DX": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "F",
+   "detect": "F",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "12": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A,B,C,D",
+   "detect": "A、B、C、D",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A,B,E,F",
+   "detect": "A、B、E、F",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A,B,D,E,F",
+   "detect": "A、B、D、E、F",
+   "src": "header"
+  }
+ },
+ "邵宜航 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "17": {
+   "excel": "BC",
+   "detect": "BC",
+   "src": "header"
+  },
+  "18": {
+   "excel": "BC",
+   "detect": "BC",
+   "src": "header"
+  },
+  "19": {
+   "excel": "DE",
+   "detect": "DE",
+   "src": "header"
+  }
+ },
+ "邵帅 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "DE",
+   "detect": "DE",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A E",
+   "detect": "A E",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A B D E",
+   "detect": "A B D E",
+   "src": "header"
+  },
+  "19": {
+   "excel": "AC E",
+   "detect": "AC E",
+   "src": "header"
+  }
+ },
+ "郑毓盛 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "11": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABC",
+   "detect": "ABC",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCD",
+   "detect": "ABCD",
+   "src": "header"
+  },
+  "19": {
+   "excel": "BCDE",
+   "detect": "BCDE",
+   "src": "header"
+  }
+ },
+ "郑超愚 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）— 郑超愚": {
+  "1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "AB",
+   "detect": "AB",
+   "src": "header"
+  },
+  "17": {
+   "excel": "BCE",
+   "detect": "BCE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ADE",
+   "detect": "ADE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ADE",
+   "detect": "ADE",
+   "src": "header"
+  }
+ },
+ "鄢萍 选择题答案": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "yanping"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "yanping"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "yanping"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "yanping"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "yanping"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "yanping"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "yanping"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "yanping"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "yanping"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "yanping"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "yanping"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "yanping"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "yanping"
+  },
+  "10-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "yanping"
+  },
+  "11": {
+   "excel": "A",
+   "detect": "A",
+   "src": "yanping"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "yanping"
+  },
+  "13": {
+   "excel": "A",
+   "detect": "A",
+   "src": "yanping"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "yanping"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "yanping"
+  },
+  "14-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "yanping"
+  },
+  "15": {
+   "excel": "C",
+   "detect": "C",
+   "src": "yanping"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "yanping"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "yanping"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "yanping"
+  },
+  "16-4": {
+   "excel": "A 50bp B 25bp",
+   "detect": "A 50bp B 25bp",
+   "src": "yanping"
+  },
+  "17": {
+   "excel": "ABCE",
+   "detect": "ABCE",
+   "src": "yanping"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "yanping"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "yanping"
+  }
+ },
+ "金祥义 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "4": {
+   "excel": "F",
+   "detect": "F",
+   "src": "header"
+  },
+  "5": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "F",
+   "detect": "F",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ADE",
+   "detect": "ADE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ACD",
+   "detect": "ACD",
+   "src": "header"
+  },
+  "19": {
+   "excel": "AB",
+   "detect": "AB",
+   "src": "header"
+  }
+ },
+ "钞小静 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "7": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "8": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "/",
+   "detect": "M2",
+   "src": "header-text"
+  },
+  "16-2": {
+   "excel": "/",
+   "detect": "",
+   "src": "none"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "DE",
+   "detect": "DE",
+   "src": "header"
+  },
+  "17": {
+   "excel": "CDE",
+   "detect": "CDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A B",
+   "detect": "A B",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "钟剑修 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "11": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "12": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "13": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "18": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "19": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  }
+ },
+ "阿不都斯力木•阿不力克木 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "15": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "陆铭 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "V",
+   "detect": "V",
+   "src": "header-text"
+  },
+  "4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "12": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "C5%",
+   "detect": "LPR",
+   "src": "header-text"
+  },
+  "17": {
+   "excel": "ABCD",
+   "detect": "ABCD",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABDE",
+   "detect": "ABDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "陈南旭 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ACDE",
+   "detect": "ACDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCD",
+   "detect": "ABCD",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "陈学彬 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "15": {
+   "excel": "/",
+   "detect": "单选或填空",
+   "src": "header-text"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A, C",
+   "detect": "A, C",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A,B",
+   "detect": "A,B",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A, D",
+   "detect": "A, D",
+   "src": "header"
+  }
+ },
+ "陈甬军 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A,B,D",
+   "detect": "A、B、D",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A,B,C,D,",
+   "detect": "A、B、C、D、",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A,D,E",
+   "detect": "A、D、E",
+   "src": "header"
+  }
+ },
+ "陈磊：2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "F",
+   "detect": "F",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "F",
+   "detect": "F",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "陈祁晖 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）-QhChen": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D/E",
+   "detect": "D/E",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "BCE",
+   "detect": "BCE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "陈锡康 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）-陈锡康": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "E",
+   "detect": "E",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "AGCDE",
+   "detect": "AGCDE",
+   "src": "header-text"
+  }
+ },
+ "靳玮 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "马跃 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "15": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "17": {
+   "excel": "ABC",
+   "detect": "ABC",
+   "src": "header"
+  },
+  "18": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  },
+  "19": {
+   "excel": "ABCDE",
+   "detect": "ABCDE",
+   "src": "header"
+  }
+ },
+ "黄险峰 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）h": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "9-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "10-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "14-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "15": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "header"
+  },
+  "16-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "header"
+  },
+  "17": {
+   "excel": "A B C D",
+   "detect": "A B C D",
+   "src": "header"
+  },
+  "18": {
+   "excel": "A B D E",
+   "detect": "A B D E",
+   "src": "header"
+  },
+  "19": {
+   "excel": "A C D E",
+   "detect": "A C D E",
+   "src": "header"
+  }
+ },
+ "Charles Leung 2026年秋季中国宏观经济形势与政策调查问卷(总第27次） Charles Leung": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:能区间是（ C ）"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:的可能区间是（ B ）"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:元兑美元汇率（$/Euro）可能位于的区间是（ B ）"
+  },
+  "4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-bracket:储在 2026 年下半年是否会加息？（ A ）"
+  },
+  "5": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-bracket:于哪个区间？（ A ）"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:上工业增加值增速可能处于哪个区间？（ B ）"
+  },
+  "7": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:2026 年中国 CPI 涨幅可能处于哪个区间？（ B ）"
+  },
+  "8": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-bracket:比上涨 1.5%。您预计 2026 年中国 PPI 可能处于哪个区间？（ A ）"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-bracket:（ A ）"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:年基础设施建设投资增速可能处于哪个区间？（ B ）"
+  },
+  "9-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:业投资增速可能处于哪个区间？（ C ）"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:房地产开发投资增速可能处于哪个区间？（ B ）"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:间？（ C ）"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:年居民人均可支配收入的名义增速将处于哪个区间？（ C ）"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:点。您预计 2026 年全国城镇调查失业率将处于哪个区间？（ C ）"
+  },
+  "13": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:个区间？（ C ）"
+  },
+  "14-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:（人民币计）增速将处于哪个区间？（ C ）"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:（人民币计）增速将处于哪个区间？（ C ）"
+  },
+  "14-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:趋势如何？（ B ）"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:至 2026 年年末人民币兑美元汇率中间价将处于哪个区间？（ B ）"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:2026 年中国 M2 的增速将处于哪个区间？（ C ）"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:亿元。您预计 2026 年下半年新增人民币贷款变化趋势如何？（ B ）"
+  },
+  "16-3": {
+   "excel": "D",
+   "detect": "D",
+   "src": "opt-bracket:增速将处于哪个区间？（ D ）"
+  },
+  "16-4": {
+   "excel": "E",
+   "detect": "E",
+   "src": "opt-bracket:（ E ）"
+  },
+  "17": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:哪些实施的空间？（ C ）"
+  },
+  "18": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:年中国财政政策存在哪些实施的空间？（ C ）"
+  },
+  "19": {
+   "excel": "A , E",
+   "detect": "A , E",
+   "src": "opt-bracket:半年中国宏观政策在扩大内需方面存在哪些实施的空间？（ A , E ）"
+  }
+ },
+ "Fung KWAN 關鋒-2026年秋季中国宏观经济形势与政策调查问卷(总第27次）_KF22092026": {
+  "1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:能区间是（ C ）"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:的可能区间是（ B ）"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:元兑美元汇率（$/Euro）可能位于的区间是（ B ）"
+  },
+  "4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:储在 2026 年下半年是否会加息？（ C ）"
+  },
+  "5": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:于哪个区间？（ C ）"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:上工业增加值增速可能处于哪个区间？（ B ）"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:2026 年中国 CPI 涨幅可能处于哪个区间？（ C ）"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:比上涨 1.5%。您预计 2026 年中国 PPI 可能处于哪个区间？（ B ）"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-bracket:（ A ）"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:年基础设施建设投资增速可能处于哪个区间？（ C ）"
+  },
+  "9-3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:业投资增速可能处于哪个区间？（ B ）"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:房地产开发投资增速可能处于哪个区间？（ B ）"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:间？（ B ）"
+  },
+  "10-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "header"
+  },
+  "11": {
+   "excel": "D",
+   "detect": "D",
+   "src": "opt-bracket:年居民人均可支配收入的名义增速将处于哪个区间？（ D ）"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:点。您预计 2026 年全国城镇调查失业率将处于哪个区间？（ C ）"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:个区间？（ B ）"
+  },
+  "14-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "opt-bracket:（人民币计）增速将处于哪个区间？（ D ）"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:（人民币计）增速将处于哪个区间？（ C ）"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-bracket:趋势如何？（ A ）"
+  },
+  "15": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:至 2026 年年末人民币兑美元汇率中间价将处于哪个区间？（C ）"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:2026 年中国 M2 的增速将处于哪个区间？（ C ）"
+  },
+  "16-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:亿元。您预计 2026 年下半年新增人民币贷款变化趋势如何？（ B ）"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:增速将处于哪个区间？（ C ）"
+  },
+  "16-4": {
+   "excel": "D",
+   "detect": "D",
+   "src": "opt-bracket:（ D ）"
+  },
+  "17": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:哪些实施的空间？（ C ）"
+  },
+  "18": {
+   "excel": "D",
+   "detect": "D",
+   "src": "opt-bracket:年中国财政政策存在哪些实施的空间？（ D ）"
+  },
+  "19": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-bracket:半年中国宏观政策在扩大内需方面存在哪些实施的空间？（ A ）"
+  }
+ },
+ "李海峥 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）-lhz": {
+  "1": {
+   "excel": "E",
+   "detect": "E",
+   "src": "opt-bracket:能区间是（ E ）"
+  },
+  "2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:的可能区间是（ C ）"
+  },
+  "3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-bracket:元兑美元汇率（$/Euro）可能位于的区间是（ A ）"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:储在 2026 年下半年是否会加息？（ B ）"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:于哪个区间？（ B ）"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:上工业增加值增速可能处于哪个区间？（ B ）"
+  },
+  "7": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:2026 年中国 CPI 涨幅可能处于哪个区间？（ C ）"
+  },
+  "8": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-bracket:比上涨 1.5%。您预计 2026 年中国 PPI 可能处于哪个区间？（ A ）"
+  },
+  "9-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:（ B ）"
+  },
+  "9-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:年基础设施建设投资增速可能处于哪个区间？（ C ）"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-bracket:业投资增速可能处于哪个区间？（ A ）"
+  },
+  "9-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:房地产开发投资增速可能处于哪个区间？（ B ）"
+  },
+  "10-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:间？（ B ）"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:年居民人均可支配收入的名义增速将处于哪个区间？（ C ）"
+  },
+  "12": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:点。您预计 2026 年全国城镇调查失业率将处于哪个区间？（ C ）"
+  },
+  "13": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-bracket:个区间？（ A ）"
+  },
+  "14-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:（人民币计）增速将处于哪个区间？（ C ）"
+  },
+  "14-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:（人民币计）增速将处于哪个区间？（ B ）"
+  },
+  "14-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:趋势如何？（ C ）"
+  },
+  "15": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-bracket:至 2026 年年末人民币兑美元汇率中间价将处于哪个区间？（ A ）"
+  },
+  "16-1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "opt-bracket:2026 年中国 M2 的增速将处于哪个区间？（ D ）"
+  },
+  "16-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-bracket:亿元。您预计 2026 年下半年新增人民币贷款变化趋势如何？（ A ）"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:增速将处于哪个区间？（ C ）"
+  },
+  "16-4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:（ B ）"
+  },
+  "17": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:哪些实施的空间？（ C ）"
+  },
+  "18": {
+   "excel": "E",
+   "detect": "E",
+   "src": "opt-bracket:年中国财政政策存在哪些实施的空间？（ E ）"
+  },
+  "19": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-bracket:半年中国宏观政策在扩大内需方面存在哪些实施的空间？（ A ）"
+  }
+ },
+ "王苏生 2026年秋季中国宏观经济形势与政策调查问卷(总第27次）": {
+  "1": {
+   "excel": "D",
+   "detect": "D",
+   "src": "opt-bracket:能区间是（ D ）"
+  },
+  "2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:的可能区间是（ B ）"
+  },
+  "3": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:元兑美元汇率（$/Euro）可能位于的区间是（ B ）"
+  },
+  "4": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:储在 2026 年下半年是否会加息？（ B ）"
+  },
+  "5": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:于哪个区间？（ B ）"
+  },
+  "6": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:上工业增加值增速可能处于哪个区间？（ B ）"
+  },
+  "7": {
+   "excel": "D",
+   "detect": "D",
+   "src": "opt-bracket:2026 年中国 CPI 涨幅可能处于哪个区间？（ D ）"
+  },
+  "8": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:比上涨 1.5%。您预计 2026 年中国 PPI 可能处于哪个区间？（ B ）"
+  },
+  "9-1": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "9-2": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:年基础设施建设投资增速可能处于哪个区间？（ B ）"
+  },
+  "9-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-bracket:业投资增速可能处于哪个区间？（ A ）"
+  },
+  "9-4": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-bracket:房地产开发投资增速可能处于哪个区间？（ A ）"
+  },
+  "10-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:间？（ C ）"
+  },
+  "10-2": {
+   "excel": "A",
+   "detect": "A",
+   "src": "header"
+  },
+  "11": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-bracket:年居民人均可支配收入的名义增速将处于哪个区间？（ A ）"
+  },
+  "12": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:点。您预计 2026 年全国城镇调查失业率将处于哪个区间？（ B ）"
+  },
+  "13": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:个区间？（ B ）"
+  },
+  "14-1": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:（人民币计）增速将处于哪个区间？（ B ）"
+  },
+  "14-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:（人民币计）增速将处于哪个区间？（ C ）"
+  },
+  "14-3": {
+   "excel": "A",
+   "detect": "A",
+   "src": "opt-bracket:趋势如何？（ A ）"
+  },
+  "15": {
+   "excel": "B",
+   "detect": "B",
+   "src": "opt-bracket:至 2026 年年末人民币兑美元汇率中间价将处于哪个区间？（ B ）"
+  },
+  "16-1": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:2026 年中国 M2 的增速将处于哪个区间？（ C ）"
+  },
+  "16-2": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:亿元。您预计 2026 年下半年新增人民币贷款变化趋势如何？（ C ）"
+  },
+  "16-3": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:增速将处于哪个区间？（ C ）"
+  },
+  "16-4": {
+   "excel": "C",
+   "detect": "C",
+   "src": "opt-bracket:（ C ）"
+  },
+  "17": {
+   "excel": "B, C",
+   "detect": "B, C",
+   "src": "opt-bracket:哪些实施的空间？（ B, C ）"
+  },
+  "18": {
+   "excel": "B, E",
+   "detect": "B, E",
+   "src": "opt-bracket:年中国财政政策存在哪些实施的空间？（ B, E ）"
+  },
+  "19": {
+   "excel": "A, E",
+   "detect": "A, E",
+   "src": "opt-bracket:半年中国宏观政策在扩大内需方面存在哪些实施的空间？（ A, E ）"
+  }
+ }
+}
